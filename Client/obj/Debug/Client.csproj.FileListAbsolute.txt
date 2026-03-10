@@ -1,0 +1,10 @@
+D:\visual project\ExamForAnExam\Client\bin\Debug\Client.exe.config
+D:\visual project\ExamForAnExam\Client\bin\Debug\Client.exe
+D:\visual project\ExamForAnExam\Client\bin\Debug\Client.pdb
+D:\visual project\ExamForAnExam\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\visual project\ExamForAnExam\Client\obj\Debug\ProductClient.Form1.resources
+D:\visual project\ExamForAnExam\Client\obj\Debug\Client.Properties.Resources.resources
+D:\visual project\ExamForAnExam\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\visual project\ExamForAnExam\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\visual project\ExamForAnExam\Client\obj\Debug\Client.exe
+D:\visual project\ExamForAnExam\Client\obj\Debug\Client.pdb
